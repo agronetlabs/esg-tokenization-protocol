@@ -12,7 +12,7 @@
 
 ---
 
-# 🌐 EIP-8040: ESG - Tokenization Protocol
+# 🌐 ESG - Tokenization Protocol
 
 > **Reference Implementation for EIP-8040: ESG - Tokenization Protocol**
 
