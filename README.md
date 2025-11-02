@@ -127,7 +127,4 @@ AgroCrypto Labs LLC reserves all rights to enforce, audit, certify, and license 
 For partnership or licensing inquiries, contact:  
 📧 support@agronet.io
 
----  
-© 2023–2025 AgroNet Labs LLC — All Rights Reserved.
-
 ---
