@@ -100,6 +100,7 @@ To contribute:
 
 - 🌐 [eip.agrocryptolabs.org](https://eip.agrocryptolabs.org)  
 - 📧 `leandro@agronet.io`
+- Telegram @agronetlabs
 
 ---
 
