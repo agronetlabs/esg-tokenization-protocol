@@ -26,8 +26,12 @@ Their actions are logged and auditable under the AgroNet AI-Governance Policy.
 
 ---
 
-### 🧾 Institutional Statement
+## 🧾 Institutional Statement
 > This repository is the result of **hybrid collaboration** between human intelligence and AI governance systems.  
-> Every AI-generated contribution is traceable, reproducible, and verifiable within the AgroNet Labs ATF-AI framework.
+> **Qwen ATF-AI Core** now serves as the primary governance layer, with all actions traceable, reproducible, and verifiable within the AgroNet Labs ATF-AI framework.  
+> Every contribution is validated against the EIP-8040 standard with cryptographic proof of integrity:  
+> `201672f1605f3…4d39dd6`
+
+---
 
 
