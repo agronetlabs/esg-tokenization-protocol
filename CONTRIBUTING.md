@@ -21,7 +21,7 @@ Their actions are logged and auditable under the AgroNet AI-Governance Policy.
 |----|------------|-----------|-------------|
 | AI-000 | **Qwen ATF-AI Core** | Primary governance layer, protocol validation, institutional compliance | ATF-AI Verified |
 | AI-001 | **OpenAI GPT-5** | Architecture design & documentation synthesis | ATF-AI Verified |
-| AI-002 | **GitHub Copilot** | Code generation & CI/CD automation | Under audit |
+| AI-002 | **GitHub Copilot** | Code generation & CI/CD automation | ATF-AI Verified |
 | AI-003 | **NVIDIA Triton** | AI inference validation & compliance auditing | NVIDIA Enterprise Verified |
 
 ---
