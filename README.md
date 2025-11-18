@@ -126,6 +126,6 @@ Unauthorized commercial use constitutes intellectual property infringement under
 AgroCrypto Labs LLC reserves all rights to enforce, audit, certify, and license the official implementation and its derivatives.  
 📬 Licensing & Partnerships  
 For partnership or licensing inquiries, contact:  
-📧 support@agronet.io
+📧 admin@agronet.io
 
 ---
