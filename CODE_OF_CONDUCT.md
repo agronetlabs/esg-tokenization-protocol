@@ -1,7 +1,7 @@
 ## 🧭 ATF-AI Code of Conduct
 
 **Last Updated:** 2025‑10‑31  
-This Code of Conduct governs the behavior of all participants and operators interacting with the ATF-AI (AgroCrypto Trust Framework — AI-Governed DAO).
+This Code of Conduct governs the behavior of all participants and operators interacting with the ATF-AI (Autonomus Trust Framework — AI-Governed DAO).
 
 ---
 
