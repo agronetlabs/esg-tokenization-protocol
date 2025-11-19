@@ -23,7 +23,7 @@
 
 ## 🚀 Institutional-Grade Blockchain, Compliance & Security
 
-**AgroCrypto Quantum Core** is the official reference implementation of the **AgroCrypto Quantum Governance Protocol (EIP-8040 Draft)** — a compliance-native, AI-governed, and post-quantum secure ESG tokenization standard for agriculture, forestry, carbon markets, and environmental asset management.
+**ESG - Tokenization Protocol** is the official reference implementation of the **ESG - Tokenization Protocol (EIP-8040 Draft)** — a compliance-native, AI-governed, and post-quantum secure ESG tokenization standard for agriculture, forestry, carbon markets, and environmental asset management.
 
 Built entirely in **pure Rust**, this project delivers:
 
@@ -50,8 +50,8 @@ This is not a legacy enterprise stack — it's a modern, auditable, and standard
 
 ## 📦 Quick Links
 
-- 🧱 [Crates.io](https://crates.io/crates/agrocrypto-quantum-core)  
-- 📚 [Docs.rs](https://docs.rs/agrocrypto-quantum-core)  
+- 🧱 [Crates.io](https://crates.io/crates/esg-tokenization-protocol)  
+- 📚 [Docs.rs](https://docs.rs/esg-tokenization-protocol)  
 - 🛡️ [Security Audit](./security_audit.md)  
 - 🧠 [ERC Discussion — Ethereum Magicians](discussions-to: https://ethereum-magicians.org/t/erc-8040-esg-tokenization-protocol/25846)
 
@@ -70,13 +70,13 @@ This is not a legacy enterprise stack — it's a modern, auditable, and standard
 
 ## 📄 Legal & Licensing Notice
 
-© 2023–2025 AgroCrypto Labs LLC — All Rights Reserved.  
-ERC-8040 (ATF-AI: AgroCrypto Trust Framework) is a public technical standard registered within the Ethereum ecosystem for reference.
+© 2023–2025 AgroNet Labs LLC — All Rights Reserved.  
+ERC-8040 (ATF-AI: Autonomus Trust Framework) is a public technical standard registered within the Ethereum ecosystem for reference.
 
-While the EIP document is public, the institutional implementation, certification, audit layer, and brand identity **"ATF-AI Verified"** are proprietary intellectual property of AgroCrypto Labs LLC.
+While the EIP document is public, the institutional implementation, certification, audit layer, and brand identity **"ATF-AI Verified"** are proprietary intellectual property of AgroNet Labs LLC.
 
 - Use of the EIP-8040 specification for educational or experimental purposes is free.  
-- Any commercial deployment, certification service, API usage, or public representation under the terms "ATF-AI Verified", "EIP-8040 Oracle", or related derivatives requires **explicit written authorization** from AgroCrypto Labs LLC.  
+- Any commercial deployment, certification service, API usage, or public representation under the terms "ATF-AI Verified", "EIP-8040 Oracle", or related derivatives requires **explicit written authorization** from AgroNet Labs LLC.  
 - Unauthorized commercial use constitutes intellectual property infringement under U.S. and international law.  
 - For partnership or licensing inquiries, contact: `admin@agronet.io`
 
@@ -84,7 +84,7 @@ While the EIP document is public, the institutional implementation, certificatio
 
 ## 🤝 Contributing
 
-This repository is maintained by AgroCrypto Labs LLC.  
+This repository is maintained by AgroNet Labs LLC.  
 We welcome technical feedback, audit suggestions, and institutional collaboration.
 
 To contribute:
@@ -104,7 +104,7 @@ To contribute:
 
 ---
 
-> **AgroCrypto Quantum Core** is not just code.  
+> **esg-tokenization-protocol** is not just code.  
 > It's infrastructure. It's compliance.  
 > It's the future of ESG tokenization.
 
@@ -112,8 +112,8 @@ To contribute:
 
 📄 Usage & Licensing  
 © 2023–2025 AgroNet Labs LLC — All Rights Reserved.  
-EIP-8040 (ATF-AI: AgroCrypto Trust Framework) is an open technical standard registered within the Ethereum ecosystem for public reference.  
-While the EIP document is public, the institutional implementation, certification layer, audit infrastructure, and brand identity "ATF-AI Verified" are proprietary intellectual property of AgroCrypto Labs LLC.  
+EIP-8040 (ATF-AI: Autonomus Trust Framework) is an open technical standard registered within the Ethereum ecosystem for public reference.  
+While the EIP document is public, the institutional implementation, certification layer, audit infrastructure, and brand identity "ATF-AI Verified" are proprietary intellectual property of AgroNet Labs LLC.  
 ✅ Free Usage  
 Use of the EIP-8040 specification for educational or experimental purposes is permitted without restriction.  
 🚫 Commercial Restrictions  
@@ -121,9 +121,9 @@ Any commercial deployment, certification service, API usage, or public represent
 - "ATF-AI Verified"  
 - "EIP-8040 Oracle"  
 - or related derivatives  
-requires explicit written authorization from AgroCrypto Labs LLC.  
+requires explicit written authorization from AgroNet Labs LLC.  
 Unauthorized commercial use constitutes intellectual property infringement under U.S. and international law.  
-AgroCrypto Labs LLC reserves all rights to enforce, audit, certify, and license the official implementation and its derivatives.  
+AgroNet Labs LLC reserves all rights to enforce, audit, certify, and license the official implementation and its derivatives.  
 📬 Licensing & Partnerships  
 For partnership or licensing inquiries, contact:  
 📧 admin@agronet.io
